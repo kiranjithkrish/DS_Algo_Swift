@@ -36,6 +36,7 @@
 		79244B4F2ADE92EC00625F72 /* ShiftArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79244B392ADE92EC00625F72 /* ShiftArray.swift */; };
 		79244B502ADE92EC00625F72 /* LongestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79244B3A2ADE92EC00625F72 /* LongestPeak.swift */; };
 		79244B512ADE92EC00625F72 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79244B3B2ADE92EC00625F72 /* MonotonicArray.swift */; };
+		79244B532ADE95F000625F72 /* DoublyLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79244B522ADE95F000625F72 /* DoublyLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,7 @@
 		79244B392ADE92EC00625F72 /* ShiftArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShiftArray.swift; sourceTree = "<group>"; };
 		79244B3A2ADE92EC00625F72 /* LongestPeak.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongestPeak.swift; sourceTree = "<group>"; };
 		79244B3B2ADE92EC00625F72 /* MonotonicArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
+		79244B522ADE95F000625F72 /* DoublyLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublyLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				79244B362ADE92EB00625F72 /* ThreeLargestNumbers.swift */,
 				79244B272ADE92EB00625F72 /* ThreeNumberSum.swift */,
 				79244B282ADE92EB00625F72 /* TreeTraversals.swift */,
+				79244B522ADE95F000625F72 /* DoublyLinkedList.swift */,
 			);
 			path = Programs;
 			sourceTree = "<group>";
@@ -351,6 +354,7 @@
 				79244B432ADE92EC00625F72 /* Palindrome.swift in Sources */,
 				79244B422ADE92EC00625F72 /* CeaserCipher.swift in Sources */,
 				79244ACF2ADE921000625F72 /* DS_Algorithms_SwiftApp.swift in Sources */,
+				79244B532ADE95F000625F72 /* DoublyLinkedList.swift in Sources */,
 				79244B512ADE92EC00625F72 /* MonotonicArray.swift in Sources */,
 				79244B3C2ADE92EC00625F72 /* FirstNonRepeatingCharacter.swift in Sources */,
 				79244B4F2ADE92EC00625F72 /* ShiftArray.swift in Sources */,
